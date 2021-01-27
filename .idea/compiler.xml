@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SqlPractice" />
+        <module name="AlgorithmCode" />
         <module name="JavaBasic" />
+        <module name="InterviewRecord" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AlgorithmCode" target="1.5" />
+      <module name="InterviewRecord" target="1.5" />
       <module name="JavaBasic" target="1.5" />
+      <module name="SqlPractice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

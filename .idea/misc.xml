@@ -7,6 +7,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/JavaBasic/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithmCode/pom.xml" />
+        <option value="$PROJECT_DIR$/SqlPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/InterviewRecord/pom.xml" />
       </list>
     </option>
   </component>
